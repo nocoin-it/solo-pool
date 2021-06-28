@@ -26,7 +26,7 @@ You will harvest your own plots thowards our farmer server without any patch nee
 
 # How to get your plots counted correctly
 Once you have completed all steps in previous point please apply using the form on this page:
-
+https://forms.gle/hc3BmnReFaJSdufn9
 We need ONLY public keys (no mnemonic) in order to associate your harvest correctly... diffidate from every one asking your private keys!
 
 # Warning

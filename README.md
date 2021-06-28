@@ -21,7 +21,10 @@ How to setup remote harvest
     -  default value is  localhost need to be updated to 0.0.0.0 
  - Start only harvest service
    - chia start harvest
-  
+
+# What you need to give to us
+To finalize the join please send us (info@nocoin.it) your farmer and pool key (no mnemonic)
+
 # Warning
 <b>Avoid to run farming  when you run remote harvest to avoid dual farming
 and incurring in ban</b>

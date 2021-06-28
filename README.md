@@ -31,3 +31,6 @@ We need ONLY public keys (no mnemonic) in order to associate your harvest correc
 
 # Warning
 <b>Avoid in any way to solo farming when you are harvesting on our pool or you will incurr in BAN for dual farming without getting any rewards and loosing the possibility to get accepted in future in our pool!</b>
+
+# Need info?
+Feel free to join our telegram channel at [@nocoin_it](https://t.me/nocoin_it) or mail us at info@nocoin.it

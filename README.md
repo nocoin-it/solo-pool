@@ -9,7 +9,7 @@ How to setup remote harvest
 
 
 - follow the official doc to import CA [Farming-on-many-machines](https://github.com/Chia-Network/chia-blockchain/wiki/Farming-on-many-machines)
-- be sure your host it's reachable on 8447 
+- be sure your host it's reachable on 8560 
 - stop all service 
   - chia stop all
 - On config.yml setup update the followed parameters
